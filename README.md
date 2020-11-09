@@ -11,6 +11,7 @@
   <p align="center">
    Simulador de envío de Emails realizado con HTML, CSS, Tailwind y Javascript ECMAScript 7
     <br />
-   <a href="https://shoppingcartjc.netlify.app/">View Demo</a>
+  <br />
+   <a href="https://sendemailsim.netlify.app/">View Demo</a>
   </p>
 </p>
