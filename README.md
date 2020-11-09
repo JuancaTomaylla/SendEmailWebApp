@@ -9,7 +9,7 @@
   <h3 align="center">SendEmail JS</h3>
 
   <p align="center">
-   Simulador de envío de Emails realizado con HTML, CSS y Javascript ECMAScript 7
+   Simulador de envío de Emails realizado con HTML, CSS, Tailwind y Javascript ECMAScript 7
     <br />
   </p>
 </p>
